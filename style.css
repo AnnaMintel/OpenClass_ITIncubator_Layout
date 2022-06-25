@@ -141,3 +141,15 @@ section {
     width: 50%;
   }
 }
+
+/* @media (max-width: 360px) {
+    .title {
+      margin: 38px 0;
+      font-size: 28px;
+      line-height: 32px;
+    }
+  
+    .list-item {
+      width: 33%;
+    }
+  }      */
